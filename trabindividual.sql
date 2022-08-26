@@ -55,7 +55,7 @@ select inventory from inventory limit 10;
 
 select language from "language";
 select language from "language" where "name" like '%a%';
-select language from "language"  where language_id => 3;
+select language from "language"  where language_id >= 3;
 select language from "language" limit 10;
 
 select payment from payment ;
