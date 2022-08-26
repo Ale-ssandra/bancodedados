@@ -1,2 +1,2 @@
-# bancodedados
- Materia de banco de dados 
+# Banco de dados
+ trabalho individual de banco de dados.
